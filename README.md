@@ -188,7 +188,7 @@ Go to:
 
 ## 📨 14. Create Sample Tickets
 
-Go to: `http://localhost/osTicket/` → **Sign-in with Admin Account** → **Open New Ticket**
+Go to: `http://localhost/osTicket/` → **Open New Ticket**
 
 ### 🎟 Ticket 1  
 **User**: Marcus Patel (marcus@osticket.com)  
