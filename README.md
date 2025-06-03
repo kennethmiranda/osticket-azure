@@ -192,7 +192,7 @@ Go to:
 
 - Assign both to:
   - Department: System Administrators  
-  - Role: Supreme Admin
+  - Role: Supreme/Super Admin
 
     ![Assign Access Screenshot](./images/agent4.PNG)  
 
