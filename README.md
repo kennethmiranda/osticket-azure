@@ -162,17 +162,28 @@ Go to:
 
 - **Ethan Reyes**  
   - Email: ethan@osticket.com  
-  - Username: ethan.reyes  
+  - Username: ethan.reyes
+
+   ![Test Agent 1 Screenshot](./images/agent1.PNG)  
 
 - **Samantha Lin**  
   - Email: samantha@osticket.com  
-  - Username: samantha.lin  
+  - Username: samantha.lin
 
-- Set a testing password and deselect "Require password change at next login" for both
+   ![Test Agent 2 Screenshot](./images/agent2.PNG)  
+
+- Set Password for both:
+   - Deselect "Send the agent a password reset email"
+   - Set a testing password
+   - Deselect "Require password change at next login"
+
+    ![Set Password Screenshot](./images/agent3.PNG)
 
 - Assign both to:
   - Department: System Administrators  
-  - Role: Super Admin  
+  - Role: Super Admin
+
+    ![Assign Access Screenshot](./images/agent4.PNG)  
 
 ---
 
@@ -181,8 +192,13 @@ Go to:
 Go to:  
 **Agent Panel → Users → Add User**
 
-- **Lila Grant** → lila@osticket.com  
+- **Lila Grant** → lila@osticket.com
+
+  ![Test User 1 Screenshot](./images/user1.PNG) 
+  
 - **Marcus Patel** → marcus@osticket.com  
+
+  ![Test User 2 Screenshot](./images/user1.PNG) 
 
 ---
 
