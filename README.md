@@ -141,7 +141,21 @@ In PHP Manager, enable:
 
 ---
 
-## 👥 11. Add Agent Accounts (Test)
+## 🧾 11. Add Help Topics
+
+Go to:  
+**Manage → Help Topics → Add New**  
+
+Sample Help Topics:
+
+- Email Issues  
+- VPN / Remote Access Problems  
+- Software Installation Requests  
+- Hardware Problem / Replacement  
+
+---
+
+## 👥 12. Add Agent Accounts (Test)
 
 Go to:  
 **Agents → Add New Agent**
@@ -162,27 +176,13 @@ Go to:
 
 ---
 
-## 👤 12. Add User Accounts (Test)
+## 👤 13. Add User Accounts (Test)
 
 Go to:  
 **Agent Panel → Users → Add User**
 
 - **Lila Grant** → lila@osticket.com  
 - **Marcus Patel** → marcus@osticket.com  
-
----
-
-## 🧾 13. Add Help Topics
-
-Go to:  
-**Admin Panel → Manage → Help Topics → Add New**  
-
-Sample Help Topics:
-
-- Email Issues  
-- VPN / Remote Access Problems  
-- Software Installation Requests  
-- Hardware Problem / Replacement  
 
 ---
 
@@ -213,8 +213,6 @@ Go to: `http://localhost/osTicket/` → **Open New Ticket**
 **Help Topic**: Hardware Problem / Replacement 
 **Subject**: Keyboard keys unresponsive 
 **Message**: Several keys on my keyboard aren’t working. Can I get a replacement today?
-
-📸 *Insert screenshots of submitted tickets*
 
 ---
 
