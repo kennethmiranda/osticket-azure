@@ -250,7 +250,9 @@ Go to:
   VPN session timed out improperly. Reset credentials and restarted RDP instance on 10.0.0.25. Added user to reconnection watchlist.
 
   Ticket Status: Resolved
-
+   
+  ![VPN/Remote Access Ticket Screenshot](./images/VPN_remote_access.PNG)
+   
 - Ticket 4 - Hardware Problem / Replacement
   
   Agent Reply:
@@ -269,7 +271,7 @@ Go to:
 
   Ticket Status: Resolved  
 
-📸 *Insert Ethan’s dashboard screenshot*
+  ![Hardware Problem Ticket Screenshot](./images/hardware_problem.PNG)
 
 🔐 **Sign in as Samantha Lin** (samantha.lin / password) 
 - Ticket 2 - Software Installation
@@ -287,6 +289,8 @@ Go to:
   Used Office deployment tool to modify install and enable Power Query. Confirmed on Teams with Marcus that feature is active.
 
   Ticket Status: Closed
+
+  ![Software Installation Ticket Screenshot](./images/software_install.PNG)
 
 - Ticket 3 - Email Issues
   
@@ -306,7 +310,7 @@ Go to:
 
   Ticket Status: Resolved
  
-📸 *Insert Samantha’s dashboard screenshot*
+  ![Email Issues Ticket Screenshot](./images/email_issues.PNG)
 
 ---
 
