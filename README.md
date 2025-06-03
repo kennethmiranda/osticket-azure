@@ -234,6 +234,7 @@ Go to:
 
 🔐 **Sign in as Ethan Reyes** (ethan.reyes / password) 
 - Ticket 1 - VPN / Remote Access
+  
   Agent Reply:
   Hi Marcus,
 
@@ -245,12 +246,13 @@ Go to:
   Ethan Reyes
   IT Support
 
-  Internal Note:
+  Internal Note: 
   VPN session timed out improperly. Reset credentials and restarted RDP instance on 10.0.0.25. Added user to reconnection watchlist.
 
   Ticket Status: Resolved
 
 - Ticket 4 - Hardware Problem / Replacement
+  
   Agent Reply:
   Hi Lila,
 
@@ -271,6 +273,7 @@ Go to:
 
 🔐 **Sign in as Samantha Lin** (samantha.lin / password) 
 - Ticket 2 - Software Installation
+  
   Agent Reply:
   Hi Marcus,
 
@@ -286,6 +289,7 @@ Go to:
   Ticket Status: Closed
 
 - Ticket 3 - Email Issues
+  
   Agent Reply:
   Hi Lila,
 
