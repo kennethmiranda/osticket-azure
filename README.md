@@ -132,7 +132,7 @@ In PHP Manager, enable:
 1. Log into the osTicket admin panel:  
    `http://localhost/osTicket/scp/login.php`  
 2. Create:  
-   - Super Admin role with all permissions  
+   - Supreme Admin role with all permissions  
    - System Administrators department
    - Level II Support team
    - Sample SLA: SEV-A (1 hour & 24/7), SEV-B (4 hours & 24/7), SEV-C (8 hours & 24/5)
@@ -181,7 +181,7 @@ Go to:
 
 - Assign both to:
   - Department: System Administrators  
-  - Role: Super Admin
+  - Role: Supreme Admin
 
     ![Assign Access Screenshot](./images/agent4.PNG)  
 
