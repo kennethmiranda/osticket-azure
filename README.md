@@ -13,7 +13,7 @@ This walkthrough demonstrates how to deploy and configure osTicket—an open-sou
 
 ---
 
-## ☁️ 1. Provision Azure Virtual Machine
+## ☁️ 1. Setup Azure Virtual Machine
 
 1. Sign into Azure Portal.  
 2. Create a Resource Group named `osTicket`.  
@@ -191,28 +191,52 @@ Go to:
 Go to: `http://localhost/osTicket/` → **Open New Ticket**
 
 ### 🎟 Ticket 1  
+
 **User**: Marcus Patel (marcus@osticket.com)  
+
 **Help Topic**: VPN / Remote Access Problems 
+
 **Subject**: Unable to access remote desktop – urgent! 
-**Message**: I’m completely locked out of the remote desktop. I have reports due and can't access any files.  
+
+**Message**: I’m completely locked out of the remote desktop. I have reports due and can't access any files.
+
+![Ticket 1 Screenshot](./images/t1.PNG)  
 
 ### 🎟 Ticket 2  
+
 **User**: Marcus Patel (marcus@osticket.com)  
+
 **Help Topic**: Software Installation Requests 
+
 **Subject**: Requesting Excel Power Query Add-on  
+
 **Message**: Can I get Power Query added to my Excel installation? I’ll be using it for data merges.
 
+![Ticket 2 Screenshot](./images/t2.PNG)
+
 ### 🎟 Ticket 3  
+
 **User**: Lila Grant (lila@osticket.com)  
+
 **Help Topic**: Email Issues  
+
 **Subject**: Email not syncing on mobile device 
+
 **Message**: My Outlook isn’t syncing emails on my phone. I can’t reply to candidates on the go.
 
+![Ticket 3 Screenshot](./images/t3.PNG)
+
 ### 🎟 Ticket 4  
+
 **User**: Lila Grant (lila@osticket.com)  
+
 **Help Topic**: Hardware Problem / Replacement 
+
 **Subject**: Keyboard keys unresponsive 
+
 **Message**: Several keys on my keyboard aren’t working. Can I get a replacement today?
+
+![Ticket 4 Screenshot](./images/t4.PNG)
 
 ---
 
