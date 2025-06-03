@@ -57,21 +57,24 @@ Download and install the following (from provided Google Drive):
 1. Open **HeidiSQL**, create a new session with root user and testing password.  
 2. Create a new database named: `osTicket`.  
 
-📸 *Insert screenshot of HeidiSQL session and database*
+   ![HeidiSQL Setup GIF](./images/heidisql.gif)
 
 ---
 
 ## 🌐 5. Configure IIS + PHP + osTicket
 
-1. Open **IIS Manager** (as Administrator).  
+1. Open **IIS Manager** as Administrator 
 2. Select PHP Manager → Register new PHP version:  
    - Path: `C:\PHP\php-cgi.exe`  
-3. Unzip osTicket.  
-4. Copy the `upload` folder to `C:\inetpub\wwwroot\` and rename it to `osTicket`.  
+3. Unzip osTicket  
+4. Copy the `upload` folder to `C:\inetpub\wwwroot\` and rename it to `osTicket`
+
+   ![Upload Folder Rename GIF](./images/upload_rename.gif)
+
 5. In IIS, go to:  
    - Sites → Default Web Site → osTicket → Browse *:80  
 
-📸 *Insert screenshots of IIS PHP config and osTicket folder*
+   ![osTicket Website GIF](./images/browse_80.gif)
 
 ---
 
@@ -112,7 +115,10 @@ In PHP Manager, enable:
 ## 🔐 9. Post-Install Security
 
 1. Delete the setup folder:  
-   `C:\inetpub\wwwroot\osTicket\setup`  
+   `C:\inetpub\wwwroot\osTicket\setup`
+
+   ![Delete Setup Folder GIF](./images/delete_setup.gif)
+ 
 2. Modify `ost-config.php` permissions:  
    - Remove **Everyone: Full Control**  
    - Keep **Read-only**  
