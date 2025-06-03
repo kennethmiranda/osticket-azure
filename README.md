@@ -137,7 +137,7 @@ In PHP Manager, enable:
    - Level II Support team
    - Sample SLA: SEV-A (1 hour & 24/7), SEV-B (4 hours & 24/7), SEV-C (8 hours & 24/5)
 
-📸 *Insert screenshots for each addition*
+![Sample SLA Screenshot](./images/sla.PNG)
 
 ---
 
@@ -152,6 +152,8 @@ Sample Help Topics:
 - VPN / Remote Access Problems  
 - Software Installation Requests  
 - Hardware Problem / Replacement  
+
+![Help Topics Screenshot](./images/help_topics.PNG)  
 
 ---
 
