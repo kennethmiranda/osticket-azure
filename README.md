@@ -29,17 +29,11 @@ This walkthrough demonstrates how to deploy and configure osTicket—an open-sou
 
 ## 🔧 2. Enable Required Windows Features
 
-1. Open **Turn Windows features on or off**.  
-2. Enable the following:
+1. Open **Turn Windows features on or off**  
+2. Select **Internet Information Services**
+3. Go to **World Wide Web Services** → **Application Development Features** → **CGI**
 
-   ```
-   ✔ World Wide Web Services
-     ✔ Application Development Features → CGI
-     ✔ Common HTTP Features
-   ✔ Web Management Tools → IIS Management Console
-   ```
-
-📸 *Insert screenshot of enabled features*
+![Windows Features Screenshot](./images/windows_feature.PNG)
 
 ---
 
@@ -89,7 +83,7 @@ In PHP Manager, enable:
 - php_intl.dll  
 - php_opcache.dll  
 
-📸 *Insert screenshot of enabled extensions*
+![PHP Extensions Screenshot](./images/php_ext.PNG)
 
 ---
 
@@ -111,7 +105,7 @@ In PHP Manager, enable:
    - Database name: `osTicket`  
    - DB User + Password: *(as set in MySQL)*  
 
-📸 *Insert screenshot of osTicket setup form*
+![osTicket Installer Setup Form Screenshot](./images/osTicket_form.PNG)
 
 ---
 
