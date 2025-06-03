@@ -135,12 +135,16 @@ In PHP Manager, enable:
    - Super Admin role with all permissions  
    - System Administrators department
    - Level II Support team
+   - Sample SLA: SEV-A (1 hour & 24/7), SEV-B (4 hours & 24/7), SEV-C (8 hours & 24/5)
 
 📸 *Insert screenshots for each addition*
 
 ---
 
 ## 👥 11. Add Agent Accounts (Test)
+
+Go to:  
+**Agents → Add New Agent**
 
 - **Ethan Reyes**  
   - Email: ethan@osticket.com  
@@ -159,6 +163,9 @@ In PHP Manager, enable:
 ---
 
 ## 👤 12. Add User Accounts (Test)
+
+Go to:  
+**Agent Panel → Users → Add User**
 
 - **Lila Grant** → lila@osticket.com  
 - **Marcus Patel** → marcus@osticket.com  
@@ -185,26 +192,26 @@ Go to: `http://localhost/osTicket/` → **Open New Ticket**
 
 ### 🎟 Ticket 1  
 **User**: Marcus Patel (marcus@osticket.com)  
-**Help Topic**: VPN / Remote Access  
-**Subject**: Unable to access remote desktop  
+**Help Topic**: VPN / Remote Access Problems 
+**Subject**: Unable to access remote desktop – urgent! 
 **Message**: I’m completely locked out of the remote desktop. I have reports due and can't access any files.  
 
 ### 🎟 Ticket 2  
 **User**: Marcus Patel (marcus@osticket.com)  
-**Help Topic**: Software Installation  
+**Help Topic**: Software Installation Requests 
 **Subject**: Requesting Excel Power Query Add-on  
 **Message**: Can I get Power Query added to my Excel installation? I’ll be using it for data merges.
 
 ### 🎟 Ticket 3  
 **User**: Lila Grant (lila@osticket.com)  
 **Help Topic**: Email Issues  
-**Subject**: Email not syncing  
+**Subject**: Email not syncing on mobile device 
 **Message**: My Outlook isn’t syncing emails on my phone. I can’t reply to candidates on the go.
 
 ### 🎟 Ticket 4  
 **User**: Lila Grant (lila@osticket.com)  
 **Help Topic**: Hardware Problem / Replacement 
-**Subject**: Keyboard unresponsive  
+**Subject**: Keyboard keys unresponsive 
 **Message**: Several keys on my keyboard aren’t working. Can I get a replacement today?
 
 📸 *Insert screenshots of submitted tickets*
