@@ -15,13 +15,13 @@ This walkthrough demonstrates how to deploy and configure osTicket—an open-sou
 
 ## ☁️ 1. Setup Azure Virtual Machine
 
-1. Sign into Azure Portal.  
-2. Create a Resource Group named `osTicket`.  
+1. Sign into Azure Portal  
+2. Create a Resource Group named `osTicket`  
 3. Create a new Virtual Machine in this group:  
    - **OS**: Windows 10 Pro (Version 22H2, x64 Gen2)  
    - **Size**: 4 vCPUs, 16 GiB RAM (if your system supports it)  
-4. Deploy the Virtual Machine.  
-5. Connect via Remote Desktop using the public IP and credentials.  
+4. Deploy the Virtual Machine
+5. Connect via Remote Desktop using the public IP and credentials  
 
 📸 *Insert screenshot of Azure VM setup and RDP connection*
 
@@ -69,8 +69,8 @@ Download and install the following (from provided Google Drive):
 
 ## 🗄️ 4. Configure MySQL and Database
 
-1. Open **HeidiSQL**, create a new session with root user and testing password.  
-2. Create a new database named: `osTicket`.  
+1. Open **HeidiSQL**, create a new session with root user and testing password  
+2. Create a new database named: `osTicket`  
 
    ![HeidiSQL Setup GIF](./images/heidisql.gif)
 
