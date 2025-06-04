@@ -1,6 +1,6 @@
 # 🎫 osTicket Help Desk Lab on Microsoft Azure Virtual Machine
 
-This walkthrough demonstrates how to deploy and configure osTicket—an open-source support ticket system—on a Windows 10 Pro VM in Microsoft Azure, designed for IT Support professionals seeking hands-on experience.
+This project demonstrates how to deploy and configure osTicket—an open-source support ticket system—on a Windows 10 Pro VM in Microsoft Azure, designed for IT Support professionals seeking hands-on experience.
 
 ---
 
