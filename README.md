@@ -33,7 +33,7 @@ This walkthrough demonstrates how to deploy and configure osTicket—an open-sou
 2. Select **Internet Information Services**
 3. Go to **World Wide Web Services** → **Application Development Features** → **CGI**
 
-![Windows Features Screenshot](./images/windows_feature.PNG)
+   ![Windows Features Screenshot](./images/windows_feature.PNG)
 
 ---
 
@@ -65,7 +65,10 @@ Download and install the following (from provided Google Drive):
 
 1. Open **IIS Manager** as Administrator 
 2. Select PHP Manager → Register new PHP version:  
-   - Path: `C:\PHP\php-cgi.exe`  
+   - Path: `C:\PHP\php-cgi.exe`
+
+   ![Configure PHP GIF](./images/php.gif)
+ 
 3. Unzip osTicket  
 4. Copy the `upload` folder to `C:\inetpub\wwwroot\` and rename it to `osTicket`
 
@@ -86,7 +89,7 @@ In PHP Manager, enable:
 - php_intl.dll  
 - php_opcache.dll  
 
-![PHP Extensions Screenshot](./images/php_ext.PNG)
+  ![PHP Extensions Screenshot](./images/php_ext.PNG)
 
 ---
 
@@ -96,7 +99,7 @@ In PHP Manager, enable:
    `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` → `ost-config.php`  
 2. Right-click → Properties → Security → Add **Everyone** with **Full Control**  
 
-📸 *Insert file rename and permissions screenshot*
+   ![ost-config Rename and Security GIF](./images/ost-config1.gif)
 
 ---
 
@@ -108,7 +111,7 @@ In PHP Manager, enable:
    - Database name: `osTicket`  
    - DB User + Password: *(as set in MySQL)*  
 
-![osTicket Installer Setup Form Screenshot](./images/osTicket_form.PNG)
+   ![osTicket Installer Setup Form Screenshot](./images/osTicket_form.PNG)
 
 ---
 
@@ -123,7 +126,7 @@ In PHP Manager, enable:
    - Remove **Everyone: Full Control**  
    - Keep **Read-only**  
 
-📸 *Insert screenshot of permissions*
+   ![ost-config Security GIF](./images/ost-config2.gif)
 
 ---
 
@@ -162,7 +165,7 @@ Sample Help Topics:
 - Software Installation Requests  
 - Hardware Problem / Replacement  
 
-![Help Topics Screenshot](./images/help_topics.PNG)  
+  ![Help Topics Screenshot](./images/help_topics.PNG)  
 
 ---
 
