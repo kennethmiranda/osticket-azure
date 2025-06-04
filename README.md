@@ -41,14 +41,29 @@ This walkthrough demonstrates how to deploy and configure osTicket—an open-sou
 
 Download and install the following (from provided Google Drive):
 
-- PHPManagerForIIS  
-- rewrite_amd64  
-- Unzip **PHP 8.2.16** to `C:\PHP`  
-- VC_redist.x64  
-- MySQL 8.0 (Server only) → Set root password  
+- PHPManagerForIIS
+
+  ![PHPManagerForIIS Install GIF](./images/install1.gif) 
+
+- rewrite_amd64
+
+  ![rewrite Install GIF](./images/install2.gif)
+  
+- Unzip **PHP 8.2.16** to `C:\PHP`
+
+  ![PHP Unzip GIF](./images/install3.gif)
+  
+- VC_redist.x64
+
+  ![VC_redist Install GIF](./images/install4.gif)
+  
+- MySQL 8.0 (Server only) → Set root password
+
+  ![MySQL 8.0 Install GIF](./images/install5.gif)
+  
 - HeidiSQL   
 
-📸 *Insert screenshot of installations and C:\PHP directory*
+  ![HeidiSQL Install GIF](./images/install6.gif)
 
 ---
 
