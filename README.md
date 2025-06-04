@@ -49,13 +49,13 @@ Download and install the following (from provided Google Drive):
 
   ![rewrite Install GIF](./images/install2.gif)
   
-- Unzip **PHP 8.2.16** to `C:\PHP`
-
-  ![PHP Unzip GIF](./images/install3.gif)
-  
 - VC_redist.x64
 
-  ![VC_redist Install GIF](./images/install4.gif)
+  ![VC_redist Install GIF](./images/install3.gif)
+  
+- Unzip **PHP 8.2.16** to `C:\PHP`
+
+  ![PHP Unzip GIF](./images/install4.gif)
   
 - MySQL 8.0 (Server only) → Set root password
 
