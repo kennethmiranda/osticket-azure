@@ -21,9 +21,12 @@ This walkthrough demonstrates how to deploy and configure osTicket—an open-sou
    - **OS**: Windows 10 Pro (Version 22H2, x64 Gen2)  
    - **Size**: 4 vCPUs, 16 GiB RAM (if your system supports it)  
 4. Deploy the Virtual Machine
+
+   ![Setup Azure Virtual Machine GIF](./images/setup_azure.gif)
+
 5. Connect via Remote Desktop using the public IP and credentials  
 
-📸 *Insert screenshot of Azure VM setup and RDP connection*
+   ![Remote Desktop Connect GIF](./images/remote_desktop.gif)
 
 ---
 
