@@ -97,7 +97,7 @@ In PHP Manager, enable:
 
 1. Rename:  
    `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` → `ost-config.php`  
-2. Right-click → Properties → Security → Add **Everyone** with **Full Control**  
+2. Right-click → Properties → Security → Add Group **Everyone** with **Full Control**  
 
    ![ost-config Rename and Security GIF](./images/ost-config1.gif)
 
